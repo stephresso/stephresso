@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="steph.svg" alt="steph" width="820">
+  <img src="card.svg" alt="steph" width="820">
 </div>
